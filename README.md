@@ -17,5 +17,3 @@ Scikit-Learn – Machine Learning Model (Random Forest)
 HTML, CSS (Bootstrap) – Frontend UI
 
 Jupyter Notebook – Model Training
-
-📂 Project Structure
