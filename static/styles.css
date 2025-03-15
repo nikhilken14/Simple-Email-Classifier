@@ -1,0 +1,22 @@
+body {
+    background-color: #f4f4f4;
+    font-family: 'Arial', sans-serif;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.card {
+    max-width: 600px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+textarea {
+    resize: none;
+}
+
+button {
+    font-size: 18px;
+}
